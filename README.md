@@ -1,7 +1,7 @@
 # Hello World I'm SANDHYA a Data Engineer🫶🏻! 
 
 
-<img width="1105" alt="image" src="https://github.com/user-attachments/assets/8ecc5338-0f57-4a9e-bae1-97dd8a72f39b" />
+<img width="1105" alt="image" src="https://images.app.goo.gl/s3AwBdnD6PgwiMVg9" />
 
 
 # 💫 About Me:
