@@ -1,4 +1,9 @@
 # Hello World I'm SANDHYA a Data Engineer🫶🏻! 
+
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/8ecc5338-0f57-4a9e-bae1-97dd8a72f39b" />
+
+
 # 💫 About Me:
 "I'm currently thriving in my role as a data engineering professional, where I get to design and build robust data pipelines that empower organizations to make data-driven decisions. I’m passionate about leveraging the latest technologies and methodologies, such as cloud computing and machine learning, to optimize data workflows. It’s incredibly rewarding to tackle complex challenges and see the tangible impact of my work on business outcomes. 
 
